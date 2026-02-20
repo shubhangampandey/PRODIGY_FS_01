@@ -11,7 +11,7 @@ npm install
 
 ## Environment
 
-Create a `.env` file backend:
+Create a `.env` file in backend:
 
 ```
 PORT=5000
